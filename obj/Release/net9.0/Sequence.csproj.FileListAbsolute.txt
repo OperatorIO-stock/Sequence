@@ -12,3 +12,4 @@
 /home/casper/Документы/Codes/Sequence/obj/Release/net9.0/Sequence.pdb
 /home/casper/Документы/Codes/Sequence/obj/Release/net9.0/Sequence.genruntimeconfig.cache
 /home/casper/Документы/Codes/Sequence/obj/Release/net9.0/ref/Sequence.dll
+/home/casper/Документы/Codes/Sequence/obj/Release/net9.0/Sequence.sourcelink.json

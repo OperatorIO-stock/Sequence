@@ -7,12 +7,10 @@ class Program
 {
     static void Main(string[] args)
     {
-        int initialNumber = 5;
         int finalNumber = 103;
-        
         int stepNumber = 7;
 
-        for(int i = initialNumber; initialNumber <= finalNumber; initialNumber += stepNumber)
+        for(int initialNumber = 5; initialNumber <= finalNumber; initialNumber += stepNumber)
         {
             Console.WriteLine(initialNumber);
         }
