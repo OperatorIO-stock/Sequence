@@ -9,8 +9,9 @@ class Program
     {
         int finalNumber = 103;
         int stepNumber = 7;
+        int initialNumber = 5;
 
-        for(int initialNumber = 5; initialNumber <= finalNumber; initialNumber += stepNumber)
+        for(int i = 0; initialNumber <= finalNumber; initialNumber += stepNumber)
         {
             Console.WriteLine(initialNumber);
         }
