@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/casper/Документы/Codes/Sequence/Sequence.csproj": {}
+    "/home/casper/Документы/Codes/Sequence/Sequence/Sequence.csproj": {}
   },
   "projects": {
-    "/home/casper/Документы/Codes/Sequence/Sequence.csproj": {
+    "/home/casper/Документы/Codes/Sequence/Sequence/Sequence.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/casper/Документы/Codes/Sequence/Sequence.csproj",
+        "projectUniqueName": "/home/casper/Документы/Codes/Sequence/Sequence/Sequence.csproj",
         "projectName": "Sequence",
-        "projectPath": "/home/casper/Документы/Codes/Sequence/Sequence.csproj",
+        "projectPath": "/home/casper/Документы/Codes/Sequence/Sequence/Sequence.csproj",
         "packagesPath": "/home/casper/.nuget/packages/",
-        "outputPath": "/home/casper/Документы/Codes/Sequence/obj/",
+        "outputPath": "/home/casper/Документы/Codes/Sequence/Sequence/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/casper/.nuget/NuGet/NuGet.Config"

@@ -8,12 +8,13 @@ class Program
     static void Main(string[] args)
     {
         int finalNumber = 103;
-        int stepNumber = 7;
         int initialNumber = 5;
+        int stepNumber = 7;
 
-        for(int i = 0; initialNumber <= finalNumber; initialNumber += stepNumber)
+        for(int i = initialNumber; i <= finalNumber; i += stepNumber)
         {
-            Console.WriteLine(initialNumber);
+            Console.WriteLine(i);
         }
+
     }
 }
